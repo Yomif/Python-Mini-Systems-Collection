@@ -1,7 +1,4 @@
 # Python-Mini-Systems-Collection
-# Python Beginner Projects Suite
-
-## Overview
 This repository contains a collection of beginner-level Python projects developed to improve programming skills and understanding of core concepts such as input/output, conditional statements, loops, and error handling.
 
 The projects included are:
@@ -35,6 +32,5 @@ An academic screening system that evaluates student scores and determines eligib
 This project suite was developed as part of a learning process to improve problem-solving skills and build foundational knowledge in Python programming.
 
 
-## Author
-Developed by: Caleb Kehinde Alonge
+
 
